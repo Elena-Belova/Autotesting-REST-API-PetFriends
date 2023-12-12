@@ -11,7 +11,7 @@
 
 * [Тест-кейсы для проверки метода DELETE](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/842bddaff50bcdb5099a86049d9fa711b2071186/API%20PetF%20DELETE.pdf)
 
-:large_blue_diamond: **Структура:**
+**Структура:**
 
 * Директория `/tests` содержит:
   * файл с тестами `test_pet_friends.py`
