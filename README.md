@@ -3,13 +3,13 @@
 
 * [Пользовательские сценарии](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/df23f4829a30efdc046ae0b3e6bbe098b1922e2f/API%20PetF%20UseC.pdf) в формате тест-кейсов
 
-* [Тест-кейсы для проверки метода GET](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/df23f4829a30efdc046ae0b3e6bbe098b1922e2f/API%20PetF%20GET.pdf)
+* [Тест-кейсы для проверки метода GET](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/f9073c357014552cca432b365e09575b7bfaf677/API%20PetF%20GET.pdf)
 
-* [Тест-кейсы для проверки метода POST](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/df23f4829a30efdc046ae0b3e6bbe098b1922e2f/API%20PetF%20POST.pdf)
+* [Тест-кейсы для проверки метода POST](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/f9073c357014552cca432b365e09575b7bfaf677/API%20PetF%20POST.pdf)
 
-* [Тест-кейсы для проверки метода PUT](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/df23f4829a30efdc046ae0b3e6bbe098b1922e2f/API%20PetF%20PUT.pdf)
+* [Тест-кейсы для проверки метода PUT](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/f9073c357014552cca432b365e09575b7bfaf677/API%20PetF%20PUT.pdf)
 
-* [Тест-кейсы для проверки метода DELETE](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/df23f4829a30efdc046ae0b3e6bbe098b1922e2f/API%20PetF%20DELETE.pdf)
+* [Тест-кейсы для проверки метода DELETE](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/f9073c357014552cca432b365e09575b7bfaf677/API%20PetF%20DELETE.pdf)
 
 **Структура:**
 
