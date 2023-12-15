@@ -1,7 +1,7 @@
 # Проверка функциональности API сервиса
 Тестирование REST API веб-приложения "Pet Friends"
 
-* [Пользовательские сценарии](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/df23f4829a30efdc046ae0b3e6bbe098b1922e2f/API%20PetF%20UseC.pdf) в формате тест-кейсов
+* [Пользовательские сценарии](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/cbf059938d47277cc532c68cbe75675ae9902ef0/API%20PetF%20UseC.pdf) в формате тест-кейсов
 
 * [Тест-кейсы для проверки метода GET](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends/blob/f9073c357014552cca432b365e09575b7bfaf677/API%20PetF%20GET.pdf)
 
